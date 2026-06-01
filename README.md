@@ -11,12 +11,20 @@ An interactive web application built with Python and Streamlit that recommends 5
 
 1. Clone this repository:
    ```bash
-git clone https://github.com/shivanik0825/Movie-Recommendation-System.git
+   git clone https://github.com/shivanik0825/Movie-Recommendation-System.git
 
 2. Navigate into the project folder:
    ```bash
    cd Movie-Recommendation-System
 
+
+2. Install the required dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+
+4.Run the Streamlit application:
+   ```bash
    pip install -r requirements.txt
 
    
