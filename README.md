@@ -18,13 +18,13 @@ An interactive web application built with Python and Streamlit that recommends 5
    cd Movie-Recommendation-System
 
 
-2. Install the required dependencies:
+3. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
 
 
 4.Run the Streamlit application:
    ```bash
-   pip install -r requirements.txt
+   streamlit run app.py
 
    
